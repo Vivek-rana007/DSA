@@ -1,0 +1,4 @@
+.Day-1-Basics.exe
+.exe
+# Ignore all .exe files
+*.exe
