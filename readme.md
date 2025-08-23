@@ -11,7 +11,7 @@ I’m organizing my progress module-wise, so each folder represents a different 
 |------------|----------|------------------------------------|---------------|
 | 23-Aug-25  | Module 01| Basics                             | ✅ Completed  |
 | 23-Aug-25  | Module 02| Conditions                         | 🔄 In Progress|
-| 00-Aug-25  | Module 02|                                    | 🔄 In Progress|
+| 00-Aug-25  | Module 02|                                    | ⏳ Planned    |
 | 00-Aug-25  | Module 02|                                    | ⏳ Planned    |
 
 ---
