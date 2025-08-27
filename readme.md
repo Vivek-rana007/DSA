@@ -10,9 +10,9 @@ I’m organizing my progress module-wise, so each folder represents a different 
 | Date       | Module   | Topics Covered                     | Status        |
 |------------|----------|------------------------------------|---------------|
 | 23-Aug-25  | Module 01| Basics                             | ✅ Completed  |
-| 23-Aug-25  | Module 02| Conditions                         | ✅ Completed|
-| 00-Aug-25  | Module 02|                                    | ⏳ Planned    |
-| 00-Aug-25  | Module 02|                                    | ⏳ Planned    |
+| 23-Aug-25  | Module 02| Conditions                         | ✅ Completed  |
+| 00-Aug-25  | Module 02| Loops                              | ✅ Completed    |
+| 00-Aug-25  | Module 03| Pattern Printing                   | 🔄 In Progress|
 
 ---
 
